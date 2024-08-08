@@ -1,3 +1,4 @@
+``` bash
 A. $ echo 01 > arquivo.txt
 B. $ git add arquivo.txt
    $ git status
@@ -70,4 +71,5 @@ M. $ echo > novo.txt
    $ git status
 On branch main
 nothing to commit, working tree clean
+```
    
